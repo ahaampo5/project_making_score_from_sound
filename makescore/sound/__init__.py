@@ -1,3 +1,3 @@
-__all__ = ["noise_cancelation"]
+__all__ = ["ncancel"]
 
-from . import noise_cancelation
+from . import ncancel

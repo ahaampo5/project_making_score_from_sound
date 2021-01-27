@@ -1,4 +1,4 @@
-__all__ = ["sound", "process"]
+__all__ = ["sound", "process", "song"]
 
 from . import process
 from . import sound
